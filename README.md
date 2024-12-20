@@ -1,4 +1,4 @@
-# Vision Board 2025 (Sprint Navideño)
+![image](https://github.com/user-attachments/assets/240d1395-e744-418c-b5ce-f0ccb01f6c17)# Vision Board 2025 (Sprint Navideño)
 Proyecto realizado por: Rubén Almazán De la Torre
 
 ## Descripción
@@ -50,31 +50,31 @@ A nivel técnico, este proyecto tiene como objetivo principal demostrar los cono
 ## Capturas de Pantalla de la interfaz del proyecto
 Pantalla Principal
 
-![image](https://github.com/user-attachments/assets/c1cc6ad3-a818-4c10-bee5-7fb064955074)
+![image](https://github.com/user-attachments/assets/d7303097-33c7-4e78-b249-fe99a95ef776)
 
 Pantalla con un propósito seleccionado - Se muestra imagen
 
-![image](https://github.com/user-attachments/assets/a352fdac-dfed-421b-95bf-65c6f04cb537)
+![image](https://github.com/user-attachments/assets/370cbbe8-57c8-4d37-91ca-68456ecb5c7d)
 
 Pantalla con detalle de un propósito
 
-![image](https://github.com/user-attachments/assets/3f25239e-c9e1-41ad-b861-998216f6019a)
+![image](https://github.com/user-attachments/assets/6ac69404-d3a5-4eb5-b5df-c3526ee6a98e)
 
 Pantalla para crear un nuevo propósito 
 
-![image](https://github.com/user-attachments/assets/3944b2e8-36c8-4200-add0-e5639ab7a6d6)
+![image](https://github.com/user-attachments/assets/c98f2538-4599-416d-bb2a-390cef807ba6)
 
 Pantalla principal con el nuevo propósito creado 
 
-![image](https://github.com/user-attachments/assets/8695ceae-89e9-4f0b-b480-e10a03ae3bc9)
+![image](https://github.com/user-attachments/assets/19b3568e-6626-434b-a5f5-9ae987681e04)
 
 Pantalla de detalle de propósito con opcion para borrar
 
-![image](https://github.com/user-attachments/assets/1c9ac4e2-4e1c-48d4-9363-52ca5a995387)
+![image](https://github.com/user-attachments/assets/033e6a79-ce3d-4852-831d-e29651996498)
 
 Pantalla principal tras eliminar el propósito seleccionado
 
-![image](https://github.com/user-attachments/assets/029a14aa-da80-47ce-9e0a-962868632332)
+![image](https://github.com/user-attachments/assets/4af7e29b-9cfe-4ddd-ba91-a9c0b124bd02)
 
 ## Retrospectiva
 ¿Que hice bien?
