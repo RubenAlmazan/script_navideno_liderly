@@ -1,0 +1,13 @@
+[History]
+1=#P0#=mb	#P1#=Command1_Click	#P2#=Project1/Form4/Command1_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20241219151411	#P7#=0	#P8#=11	.
+2=#P0#=mb	#P1#=Form_Load	#P2#=Project1/Form4/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20241219135251	#P7#=0	#P8#=6	.
+3=#P0#=mb	#P1#=Command4_Click	#P2#=Project1/Form3/Command4_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20241219135129	#P7#=0	#P8#=7	.
+4=#P0#=mb	#P1#=cmdCommand1_Click	#P2#=Project1/Form3/cmdCommand1_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20241219135050	#P7#=0	#P8#=12	.
+5=#P0#=mb	#P1#=Form_Load	#P2#=Project1/Form1/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20241219134914	#P7#=0	#P8#=41	.
+6=#P0#=mb	#P1#=List1_Click	#P2#=Project1/Form1/List1_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20241219134828	#P7#=0	#P8#=2	.
+7=#P0#=mb	#P1#=ObtenerConexion	#P2#=Project1/Module1/ObtenerConexion	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20241220144942	#P7#=0	#P8#=8	.
+8=#P0#=mb	#P1#=Command3_Click	#P2#=Project1/Form4/Command3_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20241219123354	#P7#=0	#P8#=-1	.
+9=#P0#=mb	#P1#=Command3_Click	#P2#=Project1/Form3/Command3_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20241219115341	#P7#=0	#P8#=1	.
+10=#P0#=mb	#P1#=ImagenPrincipal_Click	#P2#=Project1/Form1/ImagenPrincipal_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20241219115221	#P7#=0	#P8#=-2	.
+11=#P0#=mb	#P1#=cmdX_Click	#P2#=Project1/Form1/cmdX_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20241219113924	#P7#=0	#P8#=-1	.
+12=#P0#=mb	#P1#=cmdCommand1_Click	#P2#=Project1/Form1/cmdCommand1_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20241219110615	#P7#=0	#P8#=-1	.
