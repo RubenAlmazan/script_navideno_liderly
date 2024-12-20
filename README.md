@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/240d1395-e744-418c-b5ce-f0ccb01f6c17)# Vision Board 2025 (Sprint Navideño)
+# Vision Board 2025 (Sprint Navideño)
 Proyecto realizado por: Rubén Almazán De la Torre
 
 ## Descripción
