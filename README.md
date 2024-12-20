@@ -89,7 +89,7 @@ Gestionar el tiempo dedicado a este proyecto para balancear el desarrollo de est
 
 Generar funciones mas eficientes, conociendo a detalle el uso y relevancia de los componentes de Visual Basic 6. Además, de investigar más sobre el uso de ciertas funciones tanto de Visual Basic 6 como de SQL Server para tener mas recursos que me permitan generar soluciones más elaboradas y eficientes. 
 
-Proposito de año nuevo
+## Proposito de año nuevo
 Continuar aprendiendo nuevas herramientas y tecnologías para diversificar y fortalecer mi conjunto de habilidades, manteniéndose al día con las tendencias de la industria. Así como seguir aprendiendo diversas habilidades que me permitan crecer tanto a nivel profesional como personal.
 
 ## Reflexion de este año 
